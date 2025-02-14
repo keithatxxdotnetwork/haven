@@ -8,7 +8,7 @@ import { useNetworkClient } from 'src/contexts/network-client-context';
 import { useAuthentication } from 'src/contexts/authentication-context';
 
 import AuthenticationUI from './AuthenticationUI';
-import NotificationBanner from 'src/components/common/NotificationBanner';
+// import NotificationBanner from 'src/components/common/NotificationBanner';
 import LeftHeader from 'src/components/common/LeftHeader';
 
 import UpdatesModal from '../../components/modals/UpdatesModal';
