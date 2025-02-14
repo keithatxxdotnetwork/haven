@@ -76,7 +76,7 @@ const DefaultLayout: FC<WithChildren> = ({ children }) => {
 
   return (
     <>
-      <NotificationBanner />
+      // <NotificationBanner />
       <UpdatesModal />
       {isAuthenticated ? (
         <>
